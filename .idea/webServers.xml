@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="65ba70fa-e4e6-4123-a50f-3e108efaaa2a" name="haifeng" url="https://git.oschina.net/hackfun/">
+        <fileTransfer host="https://git.oschina.net/hackfun/Todo.git" port="21" rootFolder="/Todo" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
