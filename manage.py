@@ -15,6 +15,6 @@ def save():
     todo = Todo(content="study flask")
     todo.save()
 
+
 if __name__ == '__main__':
     manager.run()
-
